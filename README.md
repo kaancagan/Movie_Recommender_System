@@ -16,10 +16,17 @@ Bu proje, kullanıcılara izledikleri filmlere dayalı olarak diğer filmleri ta
 # kullandıklarım :
 
 1- Python 3.x
+
 2- Streamlit
+
 3- pandas
+
 4- numpy
+
 5- scikit-learn
+
 6- TMDb API
+
 7-Dataset link : https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
+
 8- NLP ve streamlit kullanarak tavsiye sistemi oluşturuldu, end_to_end NLP projesi örneğidir.
