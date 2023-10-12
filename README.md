@@ -1,6 +1,8 @@
 # Movie_Recommender_System
 Bu proje, kullanıcılara izledikleri filmlere dayalı olarak diğer filmleri tavsiye etmek için bir öneri sistemi oluşturmayı amaçlamaktadır.
-![Uploading ss.jpg…]()
+
+![ss](https://github.com/kaancagan/Movie_Recommender_System/assets/140103003/33ce6965-1e5a-42bf-9ab6-4a1ee325b8c5)
+
 # Programın amacı ve yaptıklarım:
 1- Kişiselleştirilmiş Film Tavsiyeleri: Kullanıcıların izledikleri filmlere dayalı olarak kişiselleştirilmiş film önerileri sunar.
 2- Web Uygulaması Geliştirme: Python ve Streamlit kullanarak etkileşimli bir web uygulaması oluşturdum
