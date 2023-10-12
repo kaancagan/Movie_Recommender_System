@@ -5,8 +5,11 @@ Bu proje, kullanıcılara izledikleri filmlere dayalı olarak diğer filmleri ta
 
 # Programın amacı ve yaptıklarım:
 1- Kişiselleştirilmiş Film Tavsiyeleri: Kullanıcıların izledikleri filmlere dayalı olarak kişiselleştirilmiş film önerileri sunar.
+ 
 2- Web Uygulaması Geliştirme: Python ve Streamlit kullanarak etkileşimli bir web uygulaması oluşturdum
+
 3- TMDb API ve Veri Analizi: TMDb API'ını kullanarak film verilerine erişme ve veri analizi yaptım
+
 4- Etkileşimli Kullanıcı Arayüzü: Kullanıcıların etkileşimde bulunabileceği kullanıcı dostu bir web arayüzü sağlama.
 
 
